@@ -27,8 +27,8 @@
 
 * **Backend**: Laravel
 * **Bahasa**: PHP
-* **Database**: (Sebutkan database Anda, misal: MySQL, PostgreSQL)
-* **Web Server**: (Sebutkan web server Anda, misal: Apache, Nginx)
+* **Database**: MySQL
+* **Web Server**: Apache
 
 ---
 
@@ -38,10 +38,6 @@
     ```bash
     git clone [URL_REPOSITORY_ANDA]
     cd [NAMA_FOLDER_PROYEK]
-    ```
-2.  **Install dependencies Composer:**
-    ```bash
-    composer install
     ```
 3.  **Salin file `.env.example` menjadi `.env`:**
     ```bash
@@ -63,10 +59,6 @@
 6.  **Jalankan migrasi database:**
     ```bash
     php artisan migrate
-    ```
-7.  **(Opsional) Jalankan seeder jika ada:**
-    ```bash
-    php artisan db:seed
     ```
 8.  **Jalankan server development:**
     ```bash
@@ -207,9 +199,3 @@ Berikut adalah daftar endpoint yang tersedia:
 
 ---
 
-## 🧪 Pengujian
-
-Untuk menjalankan tests, Anda bisa menggunakan perintah:
-
-```bash
-php artisan test
