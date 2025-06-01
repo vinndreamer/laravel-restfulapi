@@ -5,9 +5,9 @@
     Sebuah RESTful API yang dibuat dengan Laravel untuk mengelola data produk. Mendukung operasi CRUD (Create, Read, Update, Delete).
   </p>
   <p>
-    <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php" alt="PHP Version">
-    <img src="https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel Version">
-    <img src="https://img.shields.io/badge/API%20Status-Online-brightgreen?style=for-the-badge&logo=api" alt="API Status">
+    <img src="https://img.shields.io/badge/PHP-8.3%2B-777BB4?style=for-the-badge&logo=php" alt="PHP Version">
+    <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel Version">
+    <img src="https://img.shields.io/badge/API%20Status-Offline-brightgreen?style=for-the-badge&logo=api" alt="API Status">
   </p>
 </div>
 
